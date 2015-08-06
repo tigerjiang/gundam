@@ -1,0 +1,15 @@
+org.booster.gundam
+org.booster.gundam.activity
+org.booster.gundam.aidl
+org.booster.gundam.bean
+org.booster.gundam.broadcast
+org.booster.gundam.dao
+org.booster.gundam.service
+org.booster.gundam.util
+org.booster.sdk.bean
+org.booster.sdk.http
+org.booster.sdk.logging
+org.booster.sdk.logging.impl
+org.booster.sdk.parser
+org.booster.sdk.service
+org.booster.sdk.util
